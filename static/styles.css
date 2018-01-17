@@ -1,0 +1,19 @@
+.bg-1{
+	/*background-image: url(img/melonbowl_grn.jpg);*/
+	background-color: #1abc9c;
+	border-image-width: 100%;
+	color: #474e5d;
+}
+.bg-2{
+	/*background-image: url(img/strawberrypenguins.jpg);*/
+	background-color: #474e5d;
+	border-image-width: 100%;
+	color: #1abc9c;
+}
+.container-fluid{
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+ul li{
+	list-style: none;
+}
